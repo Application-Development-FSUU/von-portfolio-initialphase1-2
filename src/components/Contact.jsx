@@ -26,14 +26,14 @@ function Contact() {
     {
       icon: '📧',
       label: 'Email',
-      value: 'vongiducos@email.com',
-      link: 'mailto:vongiducos@email.com'
+      value: 'vonpaul.giducos@email.com',
+      link: 'mailto:vonpaul.giducos@email.com'
     },
     {
       icon: '📱',
       label: 'Phone',
-      value: '+63 912 345 6789',
-      link: 'tel:+639123456789'
+      value: '+63 976 042 9330',
+      link: 'tel:+639760429330'
     },
     {
       icon: '📍',
